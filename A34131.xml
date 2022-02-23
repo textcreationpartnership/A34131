@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The commission opened, or The position that it is not only lawfull, but also the duty and allegiance of all and every English man, to joyn and endeavour, for the restitution of His Sacred Majesty, to his throne and dignity ... cleared and explained, and that it is to be performed, by 1. councell and advice. 2. supplies with men, money, and other necessaries. 3. bearing of armes : and that whosever doth the contrary is guilty of treason / by a lover of peace and truth.</title>
+            <author>Lover of peace and truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34131</idno>
+            <idno type="STC">Wing C5555</idno>
+            <idno type="STC">ESTC R23150</idno>
+            <idno type="EEBO-CITATION">12063854</idno>
+            <idno type="OCLC">ocm 12063854</idno>
+            <idno type="VID">53329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 865:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The commission opened, or The position that it is not only lawfull, but also the duty and allegiance of all and every English man, to joyn and endeavour, for the restitution of His Sacred Majesty, to his throne and dignity ... cleared and explained, and that it is to be performed, by 1. councell and advice. 2. supplies with men, money, and other necessaries. 3. bearing of armes : and that whosever doth the contrary is guilty of treason / by a lover of peace and truth.</title>
+                  <author>Lover of peace and truth.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>A sequel to "A commission, or position: wherein all English subjects ..." 1648.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53329:1"/>
+            <!-- PDF PAGE 107 -->
+            <pb facs="tcp:53329:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <p>THE <hi>COMMISSION OPENED.</hi> OR THE POSITION, <hi>That it is not only lawfull, but alſo the duty and Allegi<g ref="char:EOLhyphen"/>ance of all and every Engliſh man, to joyn and en<g ref="char:EOLhyphen"/>deavour, for the reſtitution of his ſacred Maieſty, to his Throne and Dignity, though without Commisſion for the ſame, cleared and explained;</hi> and that it is to be performed, By
+<list>
+                  <item>1. Councell and advice.</item>
+                  <item>2. Supplies with men, money, and other neceſſaries.</item>
+                  <item>3. Bearing of Armes.</item>
+               </list> And that whoſoever doth the contrary is guilty of Treaſon.</p>
+            <p>By a Lover of Peace and Truth.</p>
+            <q>
+               <p>And thsy all helped David againſt the band of <hi>the Rovers,</hi> for they were all mighty men of valour.</p>
+               <bibl>1 Chro. 12.21.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:53329:2"/>
+            <!-- PDF PAGE 108 -->
+            <pb n="1" facs="tcp:53329:2"/>
+            <!-- PDF PAGE 108 -->
+            <head>THE COMMISSION OPENED.</head>
+            <head type="sub">OR The Poſition, that it is not only lawfull, but alſo the Duty and Allegiance of all and every Engliſhman, to joyn and endeavour, for the reſtitution of his ſacred Majeſty, unto his Throne and Dignity, though without Commiſſion for the ſame, is explained.</head>
+            <p>I Have<note n="*" place="margin">In Com<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſion o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Poſit<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note> formerly (Country men) let you underſtand, that it is not only lawfull, but alſo the bounden duty of all and eve<g ref="char:EOLhyphen"/>ry Engliſh man, to joyn, and endeavour for the Reſtitution, of his ſacred Majeſty, unto his Throne and Dignity, though without Commiſſion for the ſame, which becauſe of their authority and protection, for their undertaking, proved from the word of God, and the Law of the Land, and the light of reaſon I called a Commiſſion, but leaſt the ſaid truth ſhould be neglected or miſunderſtood, now I will explain the ſame, which therefore I will call <hi>The opening of the Commisſion:</hi> In both which, underſtand the end, and ſcope; to be the Reſtitution of our gracious Soveraign, un<g ref="char:EOLhyphen"/>to his Throne and Dignity: wherein for the effecting of the ſame, men are not tyed only to taking up of Armes, but to ioyn and uſe their beſt endeavours to reſtore his Maieſty, whether it be by war, or Treaty, or otherwiſe: and therein in every thing to perform our beſt Allegiance, in Faith, Truth and obedience.</p>
+            <p>All which is to be done by all Engliſhmen, with wiſdom, diſ<g ref="char:EOLhyphen"/>cretion and alacrity, to the utmoſt of their abilities, though with<g ref="char:EOLhyphen"/>out Commisſion for the ſame. I obſerved <hi>pag.</hi> 5. That by the Law of the Land, when Treaſon, and Felony is committed, it is lawfull for every ſubject, who ſuſpects the offender, to apprehend and ſe<g ref="char:EOLhyphen"/>cure him, &amp;c. which makes it lawfull for every Engliſh man to take up Armes for the reſtitution of our gracious Soveraign, which though it may be to every man lawfull, yet it is not to every man
+<pb n="2" facs="tcp:53329:3"/>
+               <!-- PDF PAGE 109 -->though in this caſe expedient, as the Apoſtle <hi>Paul</hi> ſpeaks in ano<g ref="char:EOLhyphen"/>ther caſe. For that would cauſe a totall neglect of Trade, and Til<g ref="char:EOLhyphen"/>lage, neither would there be any rule or Government of the Common wealth, all which would tend to ſubverſion of the Na<g ref="char:EOLhyphen"/>tion, which would be too preiudiciall both unto King and king<g ref="char:EOLhyphen"/>dom. Wherefore that we may effect this duty and truſt with ſafety, profit and benefit unto all, it will be worth our paines, to look our Commisſion over again as it is delivered, St. 7. <hi>Ed.</hi> 1. which is to aid the King as our Soveraign Lord, at all ſeaſons when need ſhall be, in his Maieſties defence of Force of Armour, and all other force againſt the Kings peace, at all times when it ſhall pleaſe him, and to puniſh them who ſhall doe contrary according to the Laws and uſages of this Realm. Our Commisſion then is to aid the King as our Soveraign Lord, at all ſeaſons when need ſhall be: Aid is the ſame with <hi>aide</hi> in French, and <hi>Auxilium</hi> in Latin, which we call help in Engliſh, which by the law of God is due unto every one that ſtands in need thereof, <hi>Relieve the oppreſſed,</hi> Iſa. 1.17. <hi>Comfort the feeble minded, ſupport the weak,</hi> 1 Theſ. 5.14. <hi>yee ought to ſupport the weak,</hi> Acts 20.35. And if this be a due unto every weak and and diſtreſſed man, how much more unto an impriſoned Chriſtian King. <hi>This is the law of God, if thy Brother be waxen poor, and fallen into decay with thee, thou ſhalt relieve him,</hi> Lev. 25.35. And if we muſt relieve a decayed brother, how much more are we bound to ſet at liberty an abuſed King, which is all the help we can give where obſerve, help is given in this caſe three wayes.</p>
+            <p>By
+<list>
+                  <item>1. <hi>Councell and advice.</hi>
+                  </item>
+                  <item>2. <hi>Supplyes, with men, money, and other neceſſaries.</hi>
+                  </item>
+                  <item>3. <hi>By bearing of Armes.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All theſe as I have ſhewed in my Commiſſion, are at all ſeaſons when need ſhall be due from us unto his ſacred Maieſty, as we are inioyned the ſame, by our Oaths, both of Supremacy and Allegi<g ref="char:EOLhyphen"/>ance, and the Statute Law of this Land, and they are to be perfor<g ref="char:EOLhyphen"/>med <hi>in Faith, Truth, and obedience,</hi> doing good and lawfull ſervice unto the King and his people. Therefore are all theſe, by every
+<pb n="3" facs="tcp:53329:3"/>
+               <!-- PDF PAGE 109 -->man to be diſcharged in a way anſwerable unto caſe and opportu<g ref="char:EOLhyphen"/>nity: And that with the beſt abilities.</p>
+            <p n="1">1. By Councell and Advice; all men are not herein bound to ſight, no the old Adage is obſervable, <hi>ſeniores ad honores, iuniores ad labores,</hi> it is not to be underſtood, that the honourable hoar head, is to undergo the weight and hardſhip of Military affaires, where<g ref="char:EOLhyphen"/>fore it is the old mans duty, as much as he is able, to give good Councell, and advice or otherwiſe to asſiſt them, who either have or ſhall ingage herein: Sometimes this may be all that Martiall Souldiers can doe, as <hi>Benhadads</hi> ſervants, who by their advice ſa<g ref="char:EOLhyphen"/>ved both their own lives, and the life of their Maſter, 1 <hi>King</hi> 20.31.32. Councell and advice may doe more good then the ſword, therefore herein muſt it needs be the duty of every wiſe Engliſh man as much as in him lies, by wholeſome advice to endeavour the Reſtitution of his ſacred Maieſty.</p>
+            <p n="2">2. All thoſe who are with holden from a martiall ingagement herein, either by age or ſome otherlawfull and reaſonable impedi<g ref="char:EOLhyphen"/>ment, are bound if they are able, to joyn and labour therein, by ſupplies of men, money and other neceſſaries, in aſſiſtance of the ſaid undertaking: in the rebuilding of the Materiall temple of <hi>Hie<g ref="char:EOLhyphen"/>ruſalem,</hi> this duty was ſtrictly charged by <hi>Cirus,</hi> and put in execu<g ref="char:EOLhyphen"/>tion, <hi>Let the men of this place help him</hi> [who had overſight of the work] <hi>with ſilver, and with Gold, and with goods, and with beaſts, be<g ref="char:EOLhyphen"/>ſides the free will offering for the houſe of God, which is in Hieruſalem.</hi> Ezr. 1.4. And if this was requiſite, and juſt for the building of a materiall Temple, how much more for the relief, and reſtaurat on of any living Temple of the Holy Ghoſt, but eſpecially for the inlargement of agracious, and pious impriſoned Prince, which is a defender of the truly Chriſtian Faith, not only <hi>lege terrae,</hi> by the law of the Land, but alſo <hi>praxi Chriſtiani,</hi> by his Chriſtian pra<g ref="char:EOLhyphen"/>ctiſe, whoſe vertues makes him worth ten thouſand of his people, 2 <hi>Sam.</hi> 18.3. Therefore muſt it muſt be their parts and duty, who are Chriſtians in the Kingdom, that (if need ſhall be) cannot ingage in Martiall ſervice, to ioyn and endeavour, for the reſtitution of
+<pb n="4" facs="tcp:53329:4"/>
+               <!-- PDF PAGE 110 -->his gracious Maieſty, by ſending of men, money, armes, and other neceſſaries, towards the maintenance of ſo religious an undertak<g ref="char:EOLhyphen"/>ing, wherefore let not Covetousneſſe, and ſelf love, hinder ſo good &amp; godly a cauſe; this is that hath already undone both King and Kingdom, for queſtionleſſe half of that money and treaſure which his Maieſties friends have paid in Compoſition, and other taxes unto the two houſes, would have made up a competent main<g ref="char:EOLhyphen"/>tenance, of a greater Army, then ever his Maieſtie had, and kept them in good order, the want wherof carried away the hearts of the multitude undid the Army, &amp; loſt the war. Whoſoever therfore is indued with any feare of God, or love of his Country, let him know that if his Maieſty be not reſtored, he cannot eſcape ruine, beggery, and all other miſeries, which Tyranny, and Oppreſſion can impoſe: Whereas if his Maieſty be reſtored to his Crown and dig<g ref="char:EOLhyphen"/>nity, we ſhall injoy all happineſſe and proſperity both in Church, and Common wealth; in Religion, and policy. Therefore is it the Husbandmans part &amp; duty, if he cannot attend an Army in perſon to labour as much as in him lyes, by Cattell &amp; Tillage of the field, for the ſupport of this religious undertaking: for <hi>The King himſelf is ſerved by the field,</hi> Eccl. 5.9. And all Common wealths have been carefull to preſerve the Plow. <hi>Malmutius</hi> ſometimes a King in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> made a Law that the Plow ſhould not be arreſted for debt, and the Lawes of <hi>England,</hi> have ever been carefull to preſerve Husbandry, and ſeeing that both the life of the Law, which is the King, and the Letter of the Law, in the ſeverall Statutes of the Land, hath been thus carefull for the good of Husbandry, how doth gratitude and their own good, injoyn all Husbandmen which doe not in their perſons ingage for the reſtitution of his Majeſty, to relieve and aſſiſt them who ſhall vndertake therein, with ſuch pro<g ref="char:EOLhyphen"/>viſions as make the ſtaffe of life, which will be an acceptable joy<g ref="char:EOLhyphen"/>ning, and endeavouring for the reſtitution of their Soveraign, ſo likewiſe all Merchants and Tradeſmen, which cannot leave their homes, to follow their callings, with greater care and diligence then ever, that they may asſiſt them, who ſhall venture: their lives
+<pb n="5" facs="tcp:53329:4"/>
+               <!-- PDF PAGE 110 -->therein, with coin which is <hi>nervus belli,</hi> the ſineiwes of war, to re<g ref="char:EOLhyphen"/>cover him from traiterous hands, unto whom God inioyns us to give all Allegiance, Homage, and ſubiection.</p>
+            <p n="3">3. The third way to joyn and endeavour for the reſtitution of his ſacred Maieſty (if neceſſity drive thereunto which God divert) is by bearing of Armes, which ought to be ſeconded by all Eng<g ref="char:EOLhyphen"/>liſh men. The feare of one <hi>Mordecai</hi> was ſo prevalent with <hi>Aha<g ref="char:EOLhyphen"/>ſuerus</hi> his Nobles, that they all joyned to help the Iewes. <hi>And all the Rulers of the Provinces, and the Lievtenants, and the Deputies, and the Officers of the King helped the Iewes, becauſe the feare of Mordecai feli upon them,</hi> Eſt. 9.3. O Country men how much more ought the ſeare of God, a greater then <hi>Mordecai,</hi> to fall upon all men in <hi>England,</hi> Noble men, and Gentlemen, Magiſtrates, and Officers throughout the Realme, and to cauſe them to help their King and Country, almoſt ruined and deſtroyed, out of the hands of Ty<g ref="char:EOLhyphen"/>ranny, Oppreſſion, and Vſurpation: wherein all men that want imployment, or others who upon good and ſound principles, are induced thereunto by conſcience, ought to joyn, and endeavour though without Commiſſion for the ſame, of which men at this time certainly there are enough in the Kingdome, (with Gods bleſſing,) able to performe a more difficult bu<g ref="char:EOLhyphen"/>ſineſſe then the Reſtitution of our gracious Soveraigne, if with wiſdome, and diſcretion, they would ſtoutly, reſolutely, and unanimouſly joyn therein, ever having a Chriſtan care to uſe ſerpentine Wiſdome, and Columbine Innocence, For this we have a ſufficient pattern in Scripture. Thus in the ſame caſe men came to help <hi>David</hi> in his diſtreſſe till he had an Army like the Hoſt of God, <hi>at that time day by day there came</hi> [men] <hi>to David to help him till it was a great hoſt, like the Host of God</hi> 1 <hi>Chro.</hi> 12.22.<note place="margin">Read the whole: Chapter.</note> If all thoſe of our Kingdome who are wiſe, wealthy, honourable, and martiall, would freely according to their duty, come unto his Majeſty as they of Iſrael did unto David then queſtionleſſe would they be recorded worthyes-unto eternity as well as them.</p>
+            <p>Thus (deare Country men) you ſee that both the word of God,
+<pb n="6" facs="tcp:53329:5"/>
+               <!-- PDF PAGE 111 -->of the Land; and the light of Reaſon enjoyns every Engliſh man to labour joyne and endeavour, for the reſtitution of his Majeſty though with out Commiſſion for the ſame, either by Councel, and advice, or by aſſiſtance with ſupplies, of men, money, Armes, or other neceſſaries: Or (if need be which God avert) by bearing &amp; Armes or all of them. And that whoſoever undertakes herein hath the Law of the Land for their protection.</p>
+            <p>But on the contrary, all thoſe that joyn and endeavour, in any or of all theſe ways againſt his Majeſty or the undertakers for the re<g ref="char:EOLhyphen"/>ſtitution of his Maieſty, are guilty of treaſon, and let them obſerve what ſentence is recorded in the word of God, to be given by So<g ref="char:EOLhyphen"/>lomon, upon <hi>Abiathar</hi> and <hi>Ioab</hi> in ſuch a caſe, for taking part with <hi>Adonijah</hi> 1 <hi>King</hi> 17. and ch. 2. v. 26 27 28 29. and let them know <hi>to adhere unto an other State, then the King in this Kingdome is high Treaſon</hi> 3. <hi>Iacob</hi> 4. and to aid or comfort them who war againſt our Lord the King is Treaſon Stat. 25. <hi>Edw.</hi> 3, 2. The words are theſe, <hi>If any man leavy War againſt the King in his Realme, or be adhe<g ref="char:EOLhyphen"/>rent unto the Kings enemies in his Realme or elſe where &amp;c.</hi> ought to be judged Treaſon, where mark but to adhere to the Kings Ene<g ref="char:EOLhyphen"/>mies is Treaſon. And the two Houſes their bulls, wherwith they would ſeem to affright good Chriſtians from their allegiance, with that horrible name of Treaſon, are but bugbeares, which can pre<g ref="char:EOLhyphen"/>vaile upon none but Knaves or Fooles. Therefore good Engliſh Chriſtians labour and endeavour, by all meanes, to the utmoſt of your power to reſtore his Maieſty, to his Throne, and dignity; and that will beget favour with God, and honour with men.</p>
+            <closer>God ſave the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
